@@ -59,7 +59,10 @@ body {
 	transform-origin: 100% 50%;
 	margin: -30px;
 }
-
+.hugesearch-submit:hover {
+	width: 100px;
+	height: 100px;
+}
 
 .hugesearch-content {
 	color: #333;
